@@ -1,0 +1,8 @@
+RowKey,PartitionKey,Team,Name,Rank,Phone,RankValue
+1,csi,csi,gslee,C,010-2721-2438,40
+2,csi,csi,kjjang,C,010-3959-3597,40
+3,csi,csi,hjseo,K,010-3727-4219,30
+4,se,se,swshin,C,010-8641-6721,40
+5,se,se,jhbae,D,010-4144-2827,20
+6,se,se,wcpark,D,010-7388-4889,20
+7,se,se,hjjung,D,010-2375-0256,20
